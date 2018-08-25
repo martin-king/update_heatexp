@@ -1,5 +1,5 @@
 # update_heatexp
-Files for running diabatic heating experiments with SPEEDY.
+Files for running diabatic heating experiments with SPEEDY Ver. 41.
 
 Some necessary commands:
 
