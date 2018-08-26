@@ -1,7 +1,7 @@
 # update_heatexp
 Files for running diabatic heating experiments with SPEEDY Ver. 41.
 
-Some necessary commands:
+Some necessary commands to create the appropriate input file of anomalous diabatic heating:
 
 cdo remapbil,gridgaussian.txt
 
