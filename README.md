@@ -7,4 +7,4 @@ cdo remapbil,gridgaussian.txt
 
 cdo intlevel,950,835,685,510,340,200,95,25
 
-And then use xsea_diaheatinputforspeedy.gs to capture the area you want, and set outside of it 0.
+And then use xsea_diaheatinputforspeedy.gs to capture the area you want, and set outside of it 0. The diaheat_jja_indianoc_decadaltrend_t30.ctl file is the template for the grd file.
